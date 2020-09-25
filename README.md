@@ -1,5 +1,6 @@
 # gulp-get-started
-This is a sample project that help you quickly learn how to use gulp in your development workflow.
+
+A simple project that demonstrate how to use gulp with your web development workflow.
 
 The tasks in this sample project includes
 
