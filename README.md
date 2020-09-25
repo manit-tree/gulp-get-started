@@ -2,7 +2,7 @@
 
 A simple project that demonstrate how to use gulp with your web development workflow.
 
-This project will show you how to concat (using gulp-concat), minify js (using (gulp-uglify), minify css (using gulp-uglifycss), convert scss to css (using gulp-sass) and watch for file changes to run gulp task automatically. 
+This project will show you how to concat (using gulp-concat), minify js (using (gulp-uglify), minify css (using gulp-uglifycss), convert scss to css (using gulp-sass), rename file (using gulp-rename) and watch for changes. 
 
 The tasks in this sample project includes
 
